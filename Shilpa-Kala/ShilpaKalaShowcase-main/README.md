@@ -1,4 +1,4 @@
-# 🎨 ShilpaKalaShowcase – Android App
+# 🎨 ShilpaKala – Android App
 
 A modern Android application designed to showcase, manage, and promote traditional art and craft in a digital format. It helps you organize artworks and artist profiles with a clean and efficient system.
 
